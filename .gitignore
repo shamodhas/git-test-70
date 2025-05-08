@@ -1,0 +1,10 @@
+# Ignore one file
+test.txt
+
+# Ignore all file using extenstion
+# (Ignore all txt files)
+# *.txt
+
+# Ignore folder inside all files
+# dev/
+
